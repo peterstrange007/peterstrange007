@@ -13,13 +13,3 @@ Graphic Design: Logos, branding, and visual assets that communicate identity wit
 Photography & Visuals: Professional imagery that enhances storytelling and presentation.
 
 Animations: Smooth, engaging motion graphics to elevate digital experiences.
-
-🎯 What Clients Can Expect
-
-A professional portfolio that demonstrates versatility across industries.
-
-Creative problem‑solving with attention to detail and user experience.
-
-Modern, premium design with consistent branding and polished execution.
-
-A collaborative approach—turning client visions into digital realities.
