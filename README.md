@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Peter Strange!
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning web-development.
-- 💞️ I’m looking to collaborate with people on creating/developing new websites.
-- 📫 How to reach me?? It's simple, just DM me on Instagaram (ID="@peter_strange_oo7).
-- ⚡ Fun fact: Bla..bla..bla...
+I am a Web Developer, Graphic Designer, and 3D Product Designer working under the brand StrangeSolution. My portfolio lives at strangesolution.com, where I showcase a diverse range of projects that combine creativity with technical precision.
 
-<!---
-peterstrange007/peterstrange007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With expertise spanning web development, interactive 3D visuals, animations, and photography, I bring ideas to life through modern design and innovative digital experiences. My work reflects a balance of functionality and aesthetics—whether building responsive websites, designing immersive 3D product models, or crafting compelling graphics and visuals.
+
+🔑 Core Skills & Strengths
+
+Web Development: Responsive, SEO‑friendly, and performance‑optimized websites tailored to client needs.
+
+3D Product Design: Interactive models and animations that allow users to explore products in detail.
+
+Graphic Design: Logos, branding, and visual assets that communicate identity with clarity and impact.
+
+Photography & Visuals: Professional imagery that enhances storytelling and presentation.
+
+Animations: Smooth, engaging motion graphics to elevate digital experiences.
+
+🎯 What Clients Can Expect
+
+A professional portfolio that demonstrates versatility across industries.
+
+Creative problem‑solving with attention to detail and user experience.
+
+Modern, premium design with consistent branding and polished execution.
+
+A collaborative approach—turning client visions into digital realities.
